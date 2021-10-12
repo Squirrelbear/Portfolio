@@ -1,7 +1,7 @@
 # Portfolio Demonstrating Peter Mitchell's Work
 
 ## Media Links:
-<p align="center">[LinkedIn](https://www.linkedin.com/in/petermitchell0001) | [GitHub](https://github.com/Squirrelbear) | [Facebook](https://www.facebook.com/petejm01) | [Twitter](https://twitter.com/Squirrelbear1) <br/> [YouTube (Professional)](https://www.youtube.com/channel/UCVpOx4ucRLUmX5Cx66kmyLA) | [YouTube (Personal Mostly Gaming)](https://www.youtube.com/channel/UCBSBiO8jZeZJ7YcequpRmGA)</p>
+<p align="center"><a href="https://www.linkedin.com/in/petermitchell0001">LinkedIn</a> | <a href="https://github.com/Squirrelbear">GitHub</a> | <a href="https://www.facebook.com/petejm01">Facebook</a> | <a href="https://twitter.com/Squirrelbear1">Twitter</a> <br/> <a href="https://www.youtube.com/channel/UCVpOx4ucRLUmX5Cx66kmyLA">YouTube (Professional)</a> | <a href="https://www.youtube.com/channel/UCBSBiO8jZeZJ7YcequpRmGA">YouTube (Personal Mostly Gaming)</a></p>
 
 ## Projects Overview
 
