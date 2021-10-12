@@ -1,1 +1,1 @@
-This GitHub presents content for my portfolio. You can view the pages at: 
+This GitHub presents content for my portfolio. You can view the pages at: https://squirrelbear.github.io/Portfolio/
