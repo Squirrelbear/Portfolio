@@ -15,10 +15,10 @@
 
 ## Java Projects
 
-* Java Test Framework: [Github Link](https://github.com/Squirrelbear/Java-Test-Framework): A tool to allow students to test the output of their university practical code.
-* Data Visualiser [Github Link](https://github.com/Squirrelbear/DataVisualiserPractical)
-* Uno: [Github Link](https://github.com/Squirrelbear/Uno)  [Youtube Demo](https://youtu.be/6feJMIqSF98)
-* Minesweeper: [Github Link](https://github.com/Squirrelbear/Minesweeper) [Youtube Demo](https://youtu.be/DvsNwkEJrzc)
+* Java Test Framework: ([Github Link](https://github.com/Squirrelbear/Java-Test-Framework)): A tool to allow students to test the output of their university practical code.
+* Data Visualiser ([Github Link](https://github.com/Squirrelbear/DataVisualiserPractical)) ([Youtube Practical Intro](https://youtu.be/Co_E2fda4Nw)): A practical designed for students to observe visually both searching and sorting algorithms.
+* Uno: ([Github Link](https://github.com/Squirrelbear/Uno))  ([Youtube Demo](https://youtu.be/6feJMIqSF98))
+* Minesweeper: ([Github Link](https://github.com/Squirrelbear/Minesweeper)) ([Youtube Demo](https://youtu.be/DvsNwkEJrzc))
 * TestTube: [Github Link](https://github.com/Squirrelbear/TestTube) [Youtube Demo](https://youtu.be/vdU5us7QbQY)
 * Breakout: [Github Link](https://github.com/Squirrelbear/Breakout) [Youtube Demo](https://youtu.be/4UtAEuN2wGE)
 * Match 3 Game: [Github Link](https://github.com/Squirrelbear/Match3Game) [Youtube Demo](https://youtu.be/YxQATWG95i0)
