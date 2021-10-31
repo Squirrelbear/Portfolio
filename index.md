@@ -5,7 +5,7 @@
 
 ## Projects Overview
 
-<p>The following list of projects are a selection from those I have worked on. Some provide links to the repositories if I have made them public, or otherwise provide a brief description. </p>
+<p>The following list of projects is a selection from those I have worked on in the past years. Some provide links to the repositories if I have made them public or provide a brief description. </p>
 <p><ul>
 	<li><a href="#java-projects">Java Projects</a></li>
 	<li><a href="#xna-projects">XNA Projects</a></li>
@@ -15,10 +15,10 @@
 
 ## Java Projects
 
-All the games listed here under Java Projects have been developed with the intent of making them easier to code for students. None of them use any sprites, they are all rendered by making draw calls directly onto JPanels. 
+I have developed all the games listed under Java Projects to make them easier to code for students. None of the games use any sprites; they are all rendered by making draw calls directly onto JPanels. A couple of non-game related projects are listed first.
 
 * Java Test Framework: ([Github Link](https://github.com/Squirrelbear/Java-Test-Framework)): A tool to allow students to test the output of their university practical code.
-* Data Visualiser ([Github Link](https://github.com/Squirrelbear/DataVisualiserPractical)) ([Youtube Practical Intro](https://youtu.be/Co_E2fda4Nw)): A practical designed for students to observe visually both searching and sorting algorithms. Uses multi-threading and reflection to give students a responsive plug and play experience.
+* Data Visualiser ([Github Link](https://github.com/Squirrelbear/DataVisualiserPractical)) ([Youtube Practical Intro](https://youtu.be/Co_E2fda4Nw)): A practical designed for students to visually observe searching and sorting algorithms. Uses multithreading and reflection to give students a responsive plug and play experience.
 * Uno: ([Github Link](https://github.com/Squirrelbear/Uno))  ([Youtube Demo](https://youtu.be/6feJMIqSF98)): A clone functionally similar to the official Uno game on Steam played vs AI.
 * Minesweeper: ([Github Link](https://github.com/Squirrelbear/Minesweeper)) ([Youtube Demo](https://youtu.be/DvsNwkEJrzc)): Designed as both a GUI and CLI with step by step instructions for students.
 * Pacman: ([Github Link](https://github.com/Squirrelbear/Pacman)) ([Youtube Demo](https://youtu.be/tH0pUULsx2o)): An implementation of the classic Pacman game with the best known level. AI is designed to mimic original logic.
@@ -26,11 +26,11 @@ All the games listed here under Java Projects have been developed with the inten
 * Breakout: ([Github Link](https://github.com/Squirrelbear/Breakout)) ([Youtube Demo](https://youtu.be/4UtAEuN2wGE)): A simple breakout clone with a bouncing ball and bricks with varying numbers of hits necessary to break them.
 * Match 3 Game: ([Github Link](https://github.com/Squirrelbear/Match3Game)) ([Youtube Demo](https://youtu.be/YxQATWG95i0)): A game with similar functionality to classics like Bejeweled.
 * Frogger: ([Github Link](https://github.com/Squirrelbear/Frogger)) ([Youtube Demo](https://youtu.be/Exx21n8kh3w)): Simple Frogger game where you try and get 4 frogs over a busy road and over water with logs and turtles.
-* RPG Text Game: ([Github Link](https://github.com/Squirrelbear/RPGTextGame)): A CLI RPG game where you traverse an ASCII map and try to clear all encounters that have turn based combat where you use mana to cast abilities to defeat the enemies. This is designed with a step by step set of instructions included to allow students to complete everything themselves.
+* RPG Text Game: ([Github Link](https://github.com/Squirrelbear/RPGTextGame)): A CLI RPG game where you traverse an ASCII map and try to clear all encounters that have turn-based combat where you use mana to cast abilities to defeat the enemies. The game is designed with a step by step set of instructions included to allow students to complete everything themselves.
 * FlappyBlock: ([Github Link](https://github.com/Squirrelbear/FlappyBlock)) ([Youtube Demo](https://youtu.be/JSSfoseU8CQ)): A simplistic take on Flappy Bird where you play as a flying block. 
-* Blackjack: ([Github Link](https://github.com/Squirrelbear/Blackjack)): A text based game playing Blackjack against the computer.
+* Blackjack: ([Github Link](https://github.com/Squirrelbear/Blackjack)): A text-based game playing Blackjack against the computer.
 * Battleship: ([Github Link](https://github.com/Squirrelbear/Battleship)) ([Youtube Demo](https://youtu.be/BaLBZEwchQY)): Battleship played against AI with three levels of difficulty posing increasing levels of challenge.
-* Tower Defence Game: ([Github Link](https://github.com/Squirrelbear/TowerDefenceGame)) ([Youtube Demo](https://youtu.be/llbEwzDPGMo)): A simple tower defence game that focuses on the essential elements with three types of towers and three types of enemies.
+* Tower Defence Game: ([Github Link](https://github.com/Squirrelbear/TowerDefenceGame)) ([Youtube Demo](https://youtu.be/llbEwzDPGMo)): This is a simple tower defence game that focuses on the essential elements with three types of towers and three types of enemies.
 * TicTacToe: ([Github Link](https://github.com/Squirrelbear/TicTacToe)) ([Youtube Demo](https://youtu.be/uv9m0cjglIY)): Tic Tac Toe with the ability to play against a simple AI or against another player.
 * Tetris: ([Github Link](https://github.com/Squirrelbear/Tetris)) ([Youtube Demo](https://youtu.be/8Sry1YbaXWY)): A simple Tetris clone that focuses on providing the core experience.
 * Space Invaders: ([Github Link](https://github.com/Squirrelbear/SpaceInvaders)) ([Youtube Demo](https://youtu.be/LGGnLAnUXvg)): Has enemies moving down to invade while the player fires back at them with a simple tank.
@@ -41,7 +41,7 @@ All the games listed here under Java Projects have been developed with the inten
 * Master Mind: ([Github Link](https://github.com/Squirrelbear/MasterMind)) ([Youtube Demo](https://youtu.be/WPtMUdLuFFg)): Played by making guesses and making informed changes to guesses from knowing the number of pieces that are correct based on colour and/or position.
 * Word Master: ([Github Link](https://github.com/Squirrelbear/WordMaster)) ([Youtube Demo](https://youtu.be/sClFZwInyvM)): A typing game where you try to type as many words as possible, as fast as possible, with as much accuracy as possible.
 * Car Dodger: ([Github Link](https://github.com/Squirrelbear/CarDodger)): A mouse controlled game where you change lanes to dodge as many oncoming cars as possible.
-* Platformer: ([Github Link](https://github.com/Squirrelbear/Platformer)) ([Youtube Demo](https://youtu.be/ctRTWqbMZ9g)): A simple platformer with platforms, collectibles, spikes, and an end point.
+* Platformer: ([Github Link](https://github.com/Squirrelbear/Platformer)) ([Youtube Demo](https://youtu.be/ctRTWqbMZ9g)): A simple platformer with platforms, collectibles, spikes, and an endpoint.
 
 ## XNA Projects
 
