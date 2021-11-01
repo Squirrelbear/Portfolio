@@ -48,7 +48,7 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Tower Defence Game**: ([Github Link](https://github.com/Squirrelbear/TowerDefenceGame)) ([Youtube Demo](https://youtu.be/llbEwzDPGMo)): This is a simple tower defence game that focuses on the essential elements with three types of towers and three types of enemies.
 * **TicTacToe**: ([Github Link](https://github.com/Squirrelbear/TicTacToe)) ([Youtube Demo](https://youtu.be/uv9m0cjglIY)): Tic Tac Toe with the ability to play against a simple AI or against another player.
 
-<center><img src="./images/Tetris.jpg" height="150"> <img src="./images/RhythmMaster.jpg" height="150"> <img src="./images/Othello.jpg" height="150"></center>
+<center><img src="./images/Tetris.jpg" height="150"> <img src="./images/SpaceInvaders.jpg" height="150"> <img src="./images/RhythmMaster.jpg" height="150"> <img src="./images/Othello.jpg" height="150"></center>
 
 * **Tetris**: ([Github Link](https://github.com/Squirrelbear/Tetris)) ([Youtube Demo](https://youtu.be/8Sry1YbaXWY)): A simple Tetris clone that focuses on providing the core experience.
 * **Space Invaders**: ([Github Link](https://github.com/Squirrelbear/SpaceInvaders)) ([Youtube Demo](https://youtu.be/LGGnLAnUXvg)): Has enemies moving down to invade while the player fires back at them with a simple tank.
