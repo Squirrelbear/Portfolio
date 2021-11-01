@@ -20,7 +20,7 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Java Test Framework**: ([Github Link](https://github.com/Squirrelbear/Java-Test-Framework)): A tool to allow students to test the output of their university practical code.
 * **Data Visualiser** ([Github Link](https://github.com/Squirrelbear/DataVisualiserPractical)) ([Youtube Practical Intro](https://youtu.be/Co_E2fda4Nw)): A practical designed for students to visually observe searching and sorting algorithms. Uses multithreading and reflection to give students a responsive plug and play experience.
 
-<img src="images/Uno.jpg" width="100">
+<img src="./images/Uno.jpg" width="100">
 
 * **Uno**: ([Github Link](https://github.com/Squirrelbear/Uno))  ([Youtube Demo](https://youtu.be/6feJMIqSF98)): A clone functionally similar to the official Uno game on Steam played vs AI.
 * **Minesweeper**: ([Github Link](https://github.com/Squirrelbear/Minesweeper)) ([Youtube Demo](https://youtu.be/DvsNwkEJrzc)): Designed as both a GUI and CLI with step by step instructions for students.
