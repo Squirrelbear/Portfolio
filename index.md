@@ -66,8 +66,13 @@ I have developed all the games listed under Java Projects to make them easier to
 
 ## XNA Projects
 
+<center><img src="./images/Chad1.jpg" height="150"> <img src="./images/Chad2.jpg" height="150"> <img src="./images/Chad3.jpg" height="150"></center>
+
 * **Chad's Challenge** ([Github Link](https://github.com/Squirrelbear/ChadsChallengeDemoCopy)) ([YouTube Level Editor Demo](https://youtu.be/dIvHmNC0zoc)) ([Youtube Gameplay Demo](https://youtu.be/BkuVXLOpa20)): A group project I led while simultaneously developing Stargate Galaxy (under Unity Projects). The game cloned the mechanics of Chip's Challenge while also adding new enemies, mechanics, and a level editor. I was responsible for managing the team, approving code merges, developing the core game systems, including data structures and methods for the editor, and designing custom levels, among other roles.
 * **XNA Tools** ([Github Link](https://github.com/Squirrelbear/XNATools)): XNA Tools is a framework for simplifying development in XNA. Developed from some code I wrote part of Chad's Challenge, and then used in Kirby Arena, Splashboard, my Honour's project, and a number of other projects.
+
+<center><img src="./images/Kirby1.JPG" height="150"> <img src="./images/Kirby2.JPG" height="150"> <img src="./images/Kirby3.JPG" height="150"></center>
+
 * **Kirby Arena** ([Github Link](https://github.com/Squirrelbear/KirbyArenaPublic)) ([Youtube Demo](https://youtu.be/oxCJZz_r7_4)): A quirky battle game where Kirby fights Kirby with any combination of AI vs AI, Player vs Player, or Player vs AI. Uses my XNA tools as a framework and has four different levels with various powerups and ways to win.
 * **Splashboard** ([Vimeo Example Gameplay](https://vimeo.com/user19868725)) (Kinect Virtual Art Program): Not a program I developed myself, but I provided my XNA Tools as the framework and assisted with converting the original C++ code into C#. Along with extending the library to provide additional support for necessary functions requested.
 * **Honours Project** ([Github Link](https://github.com/Squirrelbear/Honours-BCI-and-Kinect-Game)): My honours project investigated the use of relaxation/concentration by using the Emotiv Epoc BCI interface combined with gesture detection with the Microsoft Kinect and voice commands via the Microsoft Kinect using their speech libraries. I developed custom algorithms with three games that effectively used the inputs and tested them on participants.
