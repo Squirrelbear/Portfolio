@@ -20,21 +20,33 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Java Test Framework**: ([Github Link](https://github.com/Squirrelbear/Java-Test-Framework)): A tool to allow students to test the output of their university practical code.
 * **Data Visualiser** ([Github Link](https://github.com/Squirrelbear/DataVisualiserPractical)) ([Youtube Practical Intro](https://youtu.be/Co_E2fda4Nw)): A practical designed for students to visually observe searching and sorting algorithms. Uses multithreading and reflection to give students a responsive plug and play experience.
 
-<img src="./images/Uno.jpg" width="100">
+<img src="./images/Uno.JPG" width="150"> <img src="./images/Minesweeper1.jpg" width="150"> <img src="./images/Minesweeper2.jpg" width="150"> 
 
 * **Uno**: ([Github Link](https://github.com/Squirrelbear/Uno))  ([Youtube Demo](https://youtu.be/6feJMIqSF98)): A clone functionally similar to the official Uno game on Steam played vs AI.
 * **Minesweeper**: ([Github Link](https://github.com/Squirrelbear/Minesweeper)) ([Youtube Demo](https://youtu.be/DvsNwkEJrzc)): Designed as both a GUI and CLI with step by step instructions for students.
+
+<img src="./images/Pacman.jpg" width="150"> <img src="./images/TestTube.jpg" width="150"> <img src="./images/Breakout.jpg" width="150"> 
+
 * **Pacman**: ([Github Link](https://github.com/Squirrelbear/Pacman)) ([Youtube Demo](https://youtu.be/tH0pUULsx2o)): An implementation of the classic Pacman game with the best known level. AI is designed to mimic original logic.
 * **TestTube**: ([Github Link](https://github.com/Squirrelbear/TestTube)) ([Youtube Demo](https://youtu.be/vdU5us7QbQY)): A clone of a water puzzle game where the aim is to fill test tubes fully with single colours.
 * **Breakout**: ([Github Link](https://github.com/Squirrelbear/Breakout)) ([Youtube Demo](https://youtu.be/4UtAEuN2wGE)): A simple breakout clone with a bouncing ball and bricks with varying numbers of hits necessary to break them.
+
+<img src="./images/Match3.jpg" width="150"> <img src="./images/Frogger.jpg" width="150"> <img src="./images/FlappyBlock.jpg" width="150">
+
 * **Match 3 Game**: ([Github Link](https://github.com/Squirrelbear/Match3Game)) ([Youtube Demo](https://youtu.be/YxQATWG95i0)): A game with similar functionality to classics like Bejeweled.
 * **Frogger**: ([Github Link](https://github.com/Squirrelbear/Frogger)) ([Youtube Demo](https://youtu.be/Exx21n8kh3w)): Simple Frogger game where you try and get 4 frogs over a busy road and over water with logs and turtles.
 * **RPG Text Game**: ([Github Link](https://github.com/Squirrelbear/RPGTextGame)): A CLI RPG game where you traverse an ASCII map and try to clear all encounters that have turn-based combat where you use mana to cast abilities to defeat the enemies. The game is designed with a step by step set of instructions included to allow students to complete everything themselves.
 * **FlappyBlock**: ([Github Link](https://github.com/Squirrelbear/FlappyBlock)) ([Youtube Demo](https://youtu.be/JSSfoseU8CQ)): A simplistic take on Flappy Bird where you play as a flying block. 
 * **Blackjack**: ([Github Link](https://github.com/Squirrelbear/Blackjack)): A text-based game playing Blackjack against the computer.
+
+<img src="./images/Battleship.jpg" width="150"> <img src="./images/TowerDefence.jpg" width="150"> <img src="./images/TicTacToe.jpg" width="150">
+
 * **Battleship**: ([Github Link](https://github.com/Squirrelbear/Battleship)) ([Youtube Demo](https://youtu.be/BaLBZEwchQY)): Battleship played against AI with three levels of difficulty posing increasing levels of challenge.
 * **Tower Defence Game**: ([Github Link](https://github.com/Squirrelbear/TowerDefenceGame)) ([Youtube Demo](https://youtu.be/llbEwzDPGMo)): This is a simple tower defence game that focuses on the essential elements with three types of towers and three types of enemies.
 * **TicTacToe**: ([Github Link](https://github.com/Squirrelbear/TicTacToe)) ([Youtube Demo](https://youtu.be/uv9m0cjglIY)): Tic Tac Toe with the ability to play against a simple AI or against another player.
+
+<img src="./images/Tetris.jpg" width="150"> <img src="./images/RhythmMaster.jpg" width="150"> <img src="./images/Othello.jpg" width="150">
+
 * **Tetris**: ([Github Link](https://github.com/Squirrelbear/Tetris)) ([Youtube Demo](https://youtu.be/8Sry1YbaXWY)): A simple Tetris clone that focuses on providing the core experience.
 * **Space Invaders**: ([Github Link](https://github.com/Squirrelbear/SpaceInvaders)) ([Youtube Demo](https://youtu.be/LGGnLAnUXvg)): Has enemies moving down to invade while the player fires back at them with a simple tank.
 * **Snake**: ([Github Link](https://github.com/Squirrelbear/Snake)) ([Youtube Demo](https://youtu.be/EI8MILz4auI)): Apples spawn in 3s and can be eaten by the snake to grow in length and gradually move faster.
@@ -42,6 +54,9 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Pong**: ([Github Link](https://github.com/Squirrelbear/Pong)) ([Youtube Demo](https://youtu.be/b3IgHdTLo8k)): 2 player pong, played using the keyboard.
 * **Othello**: ([Github Link](https://github.com/Squirrelbear/Othello)) ([Youtube Demo](https://youtu.be/gIGlct4bAQs)): The game Othello played against either another player or the computer. You play by placing pieces of your colour in positions to capture pieces of the other colour.
 * **Master Mind**: ([Github Link](https://github.com/Squirrelbear/MasterMind)) ([Youtube Demo](https://youtu.be/WPtMUdLuFFg)): Played by making guesses and making informed changes to guesses from knowing the number of pieces that are correct based on colour and/or position.
+
+<img src="./images/WordMaster.jpg" width="150"> <img src="./images/Platformer.jpg" width="150">
+
 * **Word Master**: ([Github Link](https://github.com/Squirrelbear/WordMaster)) ([Youtube Demo](https://youtu.be/sClFZwInyvM)): A typing game where you try to type as many words as possible, as fast as possible, with as much accuracy as possible.
 * **Car Dodger**: ([Github Link](https://github.com/Squirrelbear/CarDodger)): A mouse controlled game where you change lanes to dodge as many oncoming cars as possible.
 * **Platformer**: ([Github Link](https://github.com/Squirrelbear/Platformer)) ([Youtube Demo](https://youtu.be/ctRTWqbMZ9g)): A simple platformer with platforms, collectibles, spikes, and an endpoint.
