@@ -18,6 +18,9 @@
 I have developed all the games listed under Java Projects to make them easier to code for students. None of the games use any sprites; they are all rendered by making draw calls directly onto JPanels. A couple of non-game related projects are listed first.
 
 * **Java Test Framework**: ([Github Link](https://github.com/Squirrelbear/Java-Test-Framework)): A tool to allow students to test the output of their university practical code.
+
+<center><img src="./images/DataVisualiser.jpg" height="250"></center>
+
 * **Data Visualiser** ([Github Link](https://github.com/Squirrelbear/DataVisualiserPractical)) ([Youtube Practical Intro](https://youtu.be/Co_E2fda4Nw)): A practical designed for students to visually observe searching and sorting algorithms. Uses multithreading and reflection to give students a responsive plug and play experience.
 
 <center><img src="./images/Uno.JPG" height="150"> <img src="./images/Minesweeper1.jpg" height="150"> <img src="./images/Minesweeper2.jpg" height="150"> </center>
@@ -45,7 +48,7 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Tower Defence Game**: ([Github Link](https://github.com/Squirrelbear/TowerDefenceGame)) ([Youtube Demo](https://youtu.be/llbEwzDPGMo)): This is a simple tower defence game that focuses on the essential elements with three types of towers and three types of enemies.
 * **TicTacToe**: ([Github Link](https://github.com/Squirrelbear/TicTacToe)) ([Youtube Demo](https://youtu.be/uv9m0cjglIY)): Tic Tac Toe with the ability to play against a simple AI or against another player.
 
-<center><img src="./images/Tetris.jpg" height="150"> <img src="./images/RhythmMaster.jpg" height="150"> <img height="./images/Othello.jpg" height="150"></center>
+<center><img src="./images/Tetris.jpg" height="150"> <img src="./images/RhythmMaster.jpg" height="150"> <img src="./images/Othello.jpg" height="150"></center>
 
 * **Tetris**: ([Github Link](https://github.com/Squirrelbear/Tetris)) ([Youtube Demo](https://youtu.be/8Sry1YbaXWY)): A simple Tetris clone that focuses on providing the core experience.
 * **Space Invaders**: ([Github Link](https://github.com/Squirrelbear/SpaceInvaders)) ([Youtube Demo](https://youtu.be/LGGnLAnUXvg)): Has enemies moving down to invade while the player fires back at them with a simple tank.
