@@ -77,6 +77,9 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Experiment 1**: ([Github Link](https://github.com/Squirrelbear/PhD-First-Experiment)) ([Youtube Demo](https://youtu.be/OF3ZlTPa5rg)): A prelimary study into using VR for object manipulation and interaction. 
 * **Experiment 2**: ([Github Link](https://github.com/Squirrelbear/SecondExperimentPhD)) ([Youtube Demo](https://youtu.be/6USVv6UwX9Y)) ([Youtube Game Trailer](https://youtu.be/7R2cSl9IyD8)): A prototype test of my Periphery Vision Menu System with VR including calibration evaluation, and a tower defence game.
 * **Experiment 3**: ([Github Link](https://github.com/Squirrelbear/ThirdExperimentPhD)) ([Youtube Demo](https://youtu.be/SKLK-2wC5jM)) ([Youtube Game Trailer](https://youtu.be/bVtB0wj8ehI)): An improved prototype test of my Periphery Vision Menu System with VR including object manipulation and a tower defence game.
+
+<center><img src="./images/Stargate1.JPG" height="150"> <img src="./images/Stargate2.JPG" height="150"> <img src="./images/Stargate3.JPG" height="150"></center>
+
 * **Stargate Galaxy** ([Github Link](https://github.com/Squirrelbear/StargateGalaxy)): A game I lead development on while at the same time also leading development on Chad's Challenge (see XNA Projects). My roles involved project manager, lead programmer, lead AI programmer, lead tester, co-lead documentation editor, and I was responsible for other elements such as merging the work of others into a single cohesive project. The game puts you in the Stargate setting with many ships and many more planets to travel to and attack or defend as an Earth faction player. 
 
 ## Other Projects
