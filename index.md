@@ -87,8 +87,15 @@ I have developed all the games listed under Java Projects to make them easier to
 
 * **Stargate Galaxy** ([Github Link](https://github.com/Squirrelbear/StargateGalaxy)): A game I lead development on while at the same time also leading development on Chad's Challenge (see XNA Projects). My roles involved project manager, lead programmer, lead AI programmer, lead tester, co-lead documentation editor, and I was responsible for other elements such as merging the work of others into a single cohesive project. The game puts you in the Stargate setting with many ships and many more planets to travel to and attack or defend as an Earth faction player. 
 
+* **Unity Workshop 1**: ([Github Link](https://github.com/Squirrelbear/IntroductionWorkshop)): Materials I developed to teach introduction to Unity. This workshop focuses on setting up the environment, creating objects, using prefabs, and introducing scripting.
+* **Unity Workshop 2**: ([Github Link](https://github.com/Squirrelbear/Unity2DPlatformerWorkshop)): Materials I developed to teach introduction to Unity. This workshop teaches the creation of a simple Platformer game. Additional extension topics include a procedurally generated platformer level, introduction to using the debugger and using GitHub on Windows with Unity. 
+* **Unity Workshop 3**: ([Github Link](https://github.com/Squirrelbear/ThirdWorkshopDemoProject)): Materials I developed to teach introduction to Unity. In this workshop, I showed a breakdown of tower defence game components, a tower defence game, examples of using events in Unity, procedural generation of a dungeon in Unity with some talk about types of randomisation, and general tips for managing objects with principles to follow.
+* **Unity Workshop 4**: ([Github Link](https://github.com/Squirrelbear/FourthWorkshopDemoProject)): Materials I developed to teach introduction to Unity. In this final workshop, I showed examples of coroutines, using scriptable objects, examples of programming patterns used in game design (singleton pattern, observer pattern, command pattern, component pattern, flyweight pattern, and state pattern) and SOLID Principles with examples. To use the concepts taught, I also included a partial sample game based on mimicking Star Wars: Galaxy of Heroes using scriptable objects and coroutines to make a lot of the functionality.
+
 ## Other Projects
 
+* **CASIO Calculator Applications**: ([Github Link](https://github.com/Squirrelbear/CasioApplications)): This contains a collection of Casio applications I wrote while in highschool. These include both games and applications for simplifying calculations for math topics. A couple of the games I had put on CasioKingdom.org where my Blackjack game had many downloads before the site closed down.
+* **CP1 Extras**: ([Github Link](https://github.com/Squirrelbear/CP1Extras)): A resource I continued to develop over 2020 and 2021 to provide a resource I was constantly updating for first year uni programming students.
 * Summer Scholarship SSVEP
 * Ashenden's at Penneshaw (2011)
 * Flinders University Childcare Centre (2011)
