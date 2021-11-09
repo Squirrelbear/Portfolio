@@ -103,9 +103,4 @@ I have developed all the games listed under Java Projects to make them easier to
 
 * **CASIO Calculator Applications**: ([Github Link](https://github.com/Squirrelbear/CasioApplications)): This contains a collection of Casio applications I wrote while in highschool. These include both games and applications for simplifying calculations for math topics. A couple of the games I had put on CasioKingdom.org where my Blackjack game had many downloads before the site closed down.
 * **CP1 Extras**: ([Github Link](https://github.com/Squirrelbear/CP1Extras)): A resource I continued to develop over 2020 and 2021 to provide a resource I was constantly updating for first year uni programming students.
-* Summer Scholarship SSVEP
-* Ashenden's at Penneshaw (2011)
-* Flinders University Childcare Centre (2011)
-* Flinders University Yellow Brick Road Mobile QR Code Web App (College of Science, Engineering and Mathematics)
-* Flinders University QR Code Room Booking Viewer (College of Science, Engineering and Mathematics)
-* Any other GitHubs that are not already listed
+* **Summer Scholarship SSVEP Flashing Stimulus**: ([Github Link](https://github.com/Squirrelbear/SSVEP-FlashingStimulus)): A collection of resources I developed during a summer research scholarship at Flinders where I was tasked with developing software to provide a configurable flashing stimulus to use for SSVEP BCI experiments. Primiarly uses C++ and DirectX11. 
