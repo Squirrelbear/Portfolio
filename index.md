@@ -23,18 +23,18 @@ I have developed all the games listed under Java Projects to make them easier to
 
 * **Data Visualiser** ([Github Link](https://github.com/Squirrelbear/DataVisualiserPractical)) ([Youtube Practical Intro](https://youtu.be/Co_E2fda4Nw)): A practical designed for students to visually observe searching and sorting algorithms. Uses multithreading and reflection to give students a responsive plug and play experience.
 
-<center><img src="./images/Uno.JPG" height="150"> <img src="./images/Minesweeper1.jpg" height="150"> <img src="./images/Minesweeper2.jpg" height="150"> </center>
+<center><img src="./images/Uno.JPG" height="150" title="Uno Example Screenshot"> <img src="./images/Minesweeper1.jpg" height="150" title="Minesweeper GUI Example Screenshot"> <img src="./images/Minesweeper2.jpg" height="150" title="Minesweeper CLI Example Screenshot"> </center>
 
 * **Uno**: ([Github Link](https://github.com/Squirrelbear/Uno))  ([Youtube Demo](https://youtu.be/6feJMIqSF98)): A clone functionally similar to the official Uno game on Steam played vs AI.
 * **Minesweeper**: ([Github Link](https://github.com/Squirrelbear/Minesweeper)) ([Youtube Demo](https://youtu.be/DvsNwkEJrzc)): Designed as both a GUI and CLI with step by step instructions for students.
 
-<center><img src="./images/Pacman.jpg" height="150"> <img src="./images/TestTube.jpg" height="150"> <img src="./images/Breakout.jpg" height="150"> </center>
+<center><img src="./images/Pacman.jpg" height="150" title="Pacman Example Screenshot"> <img src="./images/TestTube.jpg" height="150" title="Test Tube Example Screenshot"> <img src="./images/Breakout.jpg" height="150" title="Breakout Example Screenshot"> </center>
 
 * **Pacman**: ([Github Link](https://github.com/Squirrelbear/Pacman)) ([Youtube Demo](https://youtu.be/tH0pUULsx2o)): An implementation of the classic Pacman game with the best known level. AI is designed to mimic original logic.
 * **TestTube**: ([Github Link](https://github.com/Squirrelbear/TestTube)) ([Youtube Demo](https://youtu.be/vdU5us7QbQY)): A clone of a water puzzle game where the aim is to fill test tubes fully with single colours.
 * **Breakout**: ([Github Link](https://github.com/Squirrelbear/Breakout)) ([Youtube Demo](https://youtu.be/4UtAEuN2wGE)): A simple breakout clone with a bouncing ball and bricks with varying numbers of hits necessary to break them.
 
-<center><img src="./images/Match3.jpg" height="150"> <img src="./images/Frogger.jpg" height="150"> <img src="./images/FlappyBlock.jpg" height="150"></center>
+<center><img src="./images/Match3.jpg" height="150" title="Match 3 Example Screenshot"> <img src="./images/Frogger.jpg" height="150" title="Frogger Example Screenshot"> <img src="./images/FlappyBlock.jpg" height="150" title="Flappy Block Example Screenshot"></center>
 
 * **Match 3 Game**: ([Github Link](https://github.com/Squirrelbear/Match3Game)) ([Youtube Demo](https://youtu.be/YxQATWG95i0)): A game with similar functionality to classics like Bejeweled.
 * **Frogger**: ([Github Link](https://github.com/Squirrelbear/Frogger)) ([Youtube Demo](https://youtu.be/Exx21n8kh3w)): Simple Frogger game where you try and get 4 frogs over a busy road and over water with logs and turtles.
@@ -42,13 +42,13 @@ I have developed all the games listed under Java Projects to make them easier to
 * **FlappyBlock**: ([Github Link](https://github.com/Squirrelbear/FlappyBlock)) ([Youtube Demo](https://youtu.be/JSSfoseU8CQ)): A simplistic take on Flappy Bird where you play as a flying block. 
 * **Blackjack**: ([Github Link](https://github.com/Squirrelbear/Blackjack)): A text-based game playing Blackjack against the computer.
 
-<center><img src="./images/Battleship.jpg" height="150"> <img src="./images/TowerDefence.jpg" height="150"> <img src="./images/TicTacToe.jpg" height="150"></center>
+<center><img src="./images/Battleship.jpg" height="150" title="Battleship Example Screenshot"> <img src="./images/TowerDefence.jpg" height="150" title="Tower Defence Example Screenshot"> <img src="./images/TicTacToe.jpg" height="150" title="TicTacToe Example Screenshot"></center>
 
 * **Battleship**: ([Github Link](https://github.com/Squirrelbear/Battleship)) ([Youtube Demo](https://youtu.be/BaLBZEwchQY)): Battleship played against AI with three levels of difficulty posing increasing levels of challenge.
 * **Tower Defence Game**: ([Github Link](https://github.com/Squirrelbear/TowerDefenceGame)) ([Youtube Demo](https://youtu.be/llbEwzDPGMo)): This is a simple tower defence game that focuses on the essential elements with three types of towers and three types of enemies.
 * **TicTacToe**: ([Github Link](https://github.com/Squirrelbear/TicTacToe)) ([Youtube Demo](https://youtu.be/uv9m0cjglIY)): Tic Tac Toe with the ability to play against a simple AI or against another player.
 
-<center><img src="./images/Tetris.jpg" height="150"> <img src="./images/SpaceInvaders.jpg" height="150"> <img src="./images/RhythmMaster.jpg" height="150"> <img src="./images/Othello.jpg" height="150"></center>
+<center><img src="./images/Tetris.jpg" height="150" title="Tetris Example Screenshot"> <img src="./images/SpaceInvaders.jpg" height="150" title="Space Invaders Example Screenshot"> <img src="./images/RhythmMaster.jpg" height="150" title="Rhythm Master Example Screenshot"> <img src="./images/Othello.jpg" height="150" title="Othello Example Screenshot"></center>
 
 * **Tetris**: ([Github Link](https://github.com/Squirrelbear/Tetris)) ([Youtube Demo](https://youtu.be/8Sry1YbaXWY)): A simple Tetris clone that focuses on providing the core experience.
 * **Space Invaders**: ([Github Link](https://github.com/Squirrelbear/SpaceInvaders)) ([Youtube Demo](https://youtu.be/LGGnLAnUXvg)): Has enemies moving down to invade while the player fires back at them with a simple tank.
@@ -58,7 +58,7 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Othello**: ([Github Link](https://github.com/Squirrelbear/Othello)) ([Youtube Demo](https://youtu.be/gIGlct4bAQs)): The game Othello played against either another player or the computer. You play by placing pieces of your colour in positions to capture pieces of the other colour.
 * **Master Mind**: ([Github Link](https://github.com/Squirrelbear/MasterMind)) ([Youtube Demo](https://youtu.be/WPtMUdLuFFg)): Played by making guesses and making informed changes to guesses from knowing the number of pieces that are correct based on colour and/or position.
 
-<center><img src="./images/WordMaster.jpg" height="150"> <img src="./images/Platformer.jpg" height="150"></center>
+<center><img src="./images/WordMaster.jpg" height="150" title="Word Master Example Screenshot"> <img src="./images/Platformer.jpg" height="150" title="Platformer Example Screenshot"></center>
 
 * **Word Master**: ([Github Link](https://github.com/Squirrelbear/WordMaster)) ([Youtube Demo](https://youtu.be/sClFZwInyvM)): A typing game where you try to type as many words as possible, as fast as possible, with as much accuracy as possible.
 * **Car Dodger**: ([Github Link](https://github.com/Squirrelbear/CarDodger)): A mouse controlled game where you change lanes to dodge as many oncoming cars as possible.
@@ -66,33 +66,33 @@ I have developed all the games listed under Java Projects to make them easier to
 
 ## XNA Projects
 
-<center><img src="./images/Chad1.jpg" height="150"> <img src="./images/Chad2.jpg" height="150"> <img src="./images/Chad3.jpg" height="150"></center>
+<center><img src="./images/Chad1.jpg" height="150" title="Chad's Challenge Main Menu"> <img src="./images/Chad2.jpg" height="150" title="Chad's Challenge Example Screenshot"> <img src="./images/Chad3.jpg" height="150" title="Chad's Challenge Example Screenshot"></center>
 
 * **Chad's Challenge** ([Github Link](https://github.com/Squirrelbear/ChadsChallengeDemoCopy)) ([YouTube Level Editor Demo](https://youtu.be/dIvHmNC0zoc)) ([Youtube Gameplay Demo](https://youtu.be/BkuVXLOpa20)): A group project I led while simultaneously developing Stargate Galaxy (under Unity Projects). The game cloned the mechanics of Chip's Challenge while also adding new enemies, mechanics, and a level editor. I was responsible for managing the team, approving code merges, developing the core game systems, including data structures and methods for the editor, and designing custom levels, among other roles.
 * **XNA Tools** ([Github Link](https://github.com/Squirrelbear/XNATools)): XNA Tools is a framework for simplifying development in XNA. Developed from some code I wrote part of Chad's Challenge, and then used in Kirby Arena, Splashboard, my Honour's project, and a number of other projects.
 
-<center><img src="./images/Kirby1.JPG" height="150"> <img src="./images/Kirby2.JPG" height="150"> <img src="./images/Kirby3.JPG" height="150"></center>
+<center><img src="./images/Kirby1.JPG" height="150" title="Kirby Arena Main Menu"> <img src="./images/Kirby2.JPG" height="150" title="Kirby Arena Example Screenshot"> <img src="./images/Kirby3.JPG" height="150" title="Kirby Arena Example Screenshot"></center>
 
 * **Kirby Arena** ([Github Link](https://github.com/Squirrelbear/KirbyArenaPublic)) ([Youtube Demo](https://youtu.be/oxCJZz_r7_4)): A quirky battle game where Kirby fights Kirby with any combination of AI vs AI, Player vs Player, or Player vs AI. Uses my XNA tools as a framework and has four different levels with various powerups and ways to win.
 * **Splashboard** ([Vimeo Example Gameplay](https://vimeo.com/user19868725)) (Kinect Virtual Art Program): Not a program I developed myself, but I provided my XNA Tools as the framework and assisted with converting the original C++ code into C#. Along with extending the library to provide additional support for necessary functions requested.
 
-<center><img src="./images/Honours1.JPG" height="150"> <img src="./images/Honours2.JPG" height="150"> <img src="./images/Honours3.JPG" height="150"></center>
+<center><img src="./images/Honours1.JPG" height="150" title="Honours Project Tile Puzzle Example Screenshot"> <img src="./images/Honours2.JPG" height="150" title="Honours Project Street Puzzle Example Screenshot"> <img src="./images/Honours3.JPG" height="150" title="Honours Project River Puzzle Example Screenshot"></center>
 
 * **Honours Project** ([Github Link](https://github.com/Squirrelbear/Honours-BCI-and-Kinect-Game)) ([Youtube Demo](https://youtu.be/CxklsQ8ch8A)): My honours project investigated the use of relaxation/concentration by using the Emotiv Epoc BCI interface combined with gesture detection with the Microsoft Kinect and voice commands via the Microsoft Kinect using their speech libraries. I developed custom algorithms with three games that effectively used the inputs and tested them on participants.
 
 ## Unity Projects
 
-<center><img src="./images/PHDExp1.jpg" height="150"> <img src="./images/PHDExp2.jpg" height="150"> <img src="./images/PHDExp3.jpg" height="150"></center>
+<center><img src="./images/PHDExp1.jpg" height="150" title="First PhD Experiment Example Screenshot"> <img src="./images/PHDExp2.jpg" height="150" title="Second PhD Experiment Tower Defence Example Screenshot"> <img src="./images/PHDExp3.jpg" height="150" title="Third PhD Experiment Tower Defence Example Screenshot"></center>
 
 * **PHD Experiment 1**: ([Github Link](https://github.com/Squirrelbear/PhD-First-Experiment)) ([Youtube Demo](https://youtu.be/OF3ZlTPa5rg)): A prelimary study into using VR for object manipulation and interaction. 
 * **PHD Experiment 2**: ([Github Link](https://github.com/Squirrelbear/SecondExperimentPhD)) ([Youtube Demo](https://youtu.be/6USVv6UwX9Y)) ([Youtube Game Trailer](https://youtu.be/7R2cSl9IyD8)): A prototype test of my Periphery Vision Menu System with VR including calibration evaluation, and a tower defence game.
 * **PHD Experiment 3**: ([Github Link](https://github.com/Squirrelbear/ThirdExperimentPhD)) ([Youtube Demo](https://youtu.be/SKLK-2wC5jM)) ([Youtube Game Trailer](https://youtu.be/bVtB0wj8ehI)): An improved prototype test of my Periphery Vision Menu System with VR including object manipulation and a tower defence game.
 
-<center><img src="./images/Stargate1.JPG" height="150"> <img src="./images/Stargate2.JPG" height="150"> <img src="./images/Stargate3.JPG" height="150"></center>
+<center><img src="./images/Stargate1.JPG" height="150" title="Stargate Galaxy Main Menu"> <img src="./images/Stargate2.JPG" height="150" title="Stargate Galaxy Example Screenshot"> <img src="./images/Stargate3.JPG" height="150" title="Stargate Galaxy Example Screenshot"></center>
 
 * **Stargate Galaxy** ([Github Link](https://github.com/Squirrelbear/StargateGalaxy)) ([Youtube Demo](https://youtu.be/YiR4QwfVw_I)): A game I lead development on while at the same time also leading development on Chad's Challenge (see XNA Projects). My roles involved project manager, lead programmer, lead AI programmer, lead tester, co-lead documentation editor, and I was responsible for other elements such as merging the work of others into a single cohesive project. The game puts you in the Stargate setting with many ships and many more planets to travel to and attack or defend as an Earth faction player. 
 
-<center><img src="./images/Workshop2.JPG" height="150"> <img src="./images/Workshop3.JPG" height="150"> <img src="./images/Workshop4.JPG" height="150"></center>
+<center><img src="./images/Workshop2.JPG" height="150" title="Workshop 2 Example Screenshot showing a Platformer"> <img src="./images/Workshop3.JPG" height="150" title="Workshop 3 Example Screenshot showing a Dungeon Generation Tool"> <img src="./images/Workshop4.JPG" height="150" title="Workshop 4 Example Screenshot showing a Star Wars: Galaxy of Heroes Clone"></center>
 
 * **Unity Workshop 1**: ([Github Link](https://github.com/Squirrelbear/IntroductionWorkshop)): Materials I developed to teach introduction to Unity. This workshop focuses on setting up the environment, creating objects, using prefabs, and introducing scripting.
 * **Unity Workshop 2**: ([Github Link](https://github.com/Squirrelbear/Unity2DPlatformerWorkshop)): Materials I developed to teach introduction to Unity. This workshop teaches the creation of a simple Platformer game. Additional extension topics include a procedurally generated platformer level, introduction to using the debugger and using GitHub on Windows with Unity. 
