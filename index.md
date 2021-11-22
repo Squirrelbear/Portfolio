@@ -19,7 +19,7 @@ I have developed all the games listed under Java Projects to make them easier to
 
 * **Java Test Framework**: ([Github Link](https://github.com/Squirrelbear/Java-Test-Framework)): A tool to allow students to test the output of their university practical code.
 
-<center><img src="./images/DataVisualiser.jpg" height="250"></center>
+<center><img src="./images/DataVisualiser.jpg" height="250" title="Data Visualiser Example Screenshot"></center>
 
 * **Data Visualiser** ([Github Link](https://github.com/Squirrelbear/DataVisualiserPractical)) ([Youtube Practical Intro](https://youtu.be/Co_E2fda4Nw)): A practical designed for students to visually observe searching and sorting algorithms. Uses multithreading and reflection to give students a responsive plug and play experience.
 
