@@ -99,11 +99,15 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Unity Workshop 3**: ([Github Link](https://github.com/Squirrelbear/ThirdWorkshopDemoProject)): Materials I developed to teach introduction to Unity. In this workshop, I showed a breakdown of tower defence game components, a tower defence game, examples of using events in Unity, procedural generation of a dungeon in Unity with some talk about types of randomisation, and general tips for managing objects with principles to follow.
 * **Unity Workshop 4**: ([Github Link](https://github.com/Squirrelbear/FourthWorkshopDemoProject)): Materials I developed to teach introduction to Unity. In this final workshop, I showed examples of coroutines, using scriptable objects, examples of programming patterns used in game design (singleton pattern, observer pattern, command pattern, component pattern, flyweight pattern, and state pattern) and SOLID Principles with examples. To use the concepts taught, I also included a partial sample game based on mimicking Star Wars: Galaxy of Heroes using scriptable objects and coroutines to make a lot of the functionality.
 
+## C++ Projects
+
+* **RPG Text Game C++ Edition**: ([Github Link](https://github.com/Squirrelbear/RPGTextGameCPP)): A C++ version of the Java RPG Text Game, but with more customisation and changes to suit a CLI in C++. 
+* **Summer Scholarship SSVEP Flashing Stimulus**: ([Github Link](https://github.com/Squirrelbear/SSVEP-FlashingStimulus)): I developed a collection of resources during a summer research scholarship at Flinders where I was tasked with developing software to provide a configurable flashing stimulus for SSVEP BCI experiments. Primarily uses C++ and DirectX11.
+
 ## Other Projects
 
 * **CASIO Calculator Applications**: ([Github Link](https://github.com/Squirrelbear/CasioApplications)): This contains a collection of Casio applications I wrote while in high school. These include both games and applications for simplifying calculations for math topics. My Blackjack game performed well on CasioKingdom.org, where it had many downloads before the site closed down.
 * **CP1 Extras**: ([Github Link](https://github.com/Squirrelbear/CP1Extras)): A resource I continued to develop over 2020 and 2021 to provide help to first-year uni programming students.
-* **Summer Scholarship SSVEP Flashing Stimulus**: ([Github Link](https://github.com/Squirrelbear/SSVEP-FlashingStimulus)): I developed a collection of resources during a summer research scholarship at Flinders where I was tasked with developing software to provide a configurable flashing stimulus for SSVEP BCI experiments. Primarily uses C++ and DirectX11.
 * **Android Maze Game**: ([Github Link](https://github.com/Squirrelbear/AndroidMazeGame)): A simple game for Android utilising the gyroscope and accelerometer in Java.
 * **Windows Phone Maze Game**: ([Github Link](https://github.com/Squirrelbear/WindowsPhoneMazeGame)): Same game as the Android Maze Game, except converted to use XNA with C# targetted to deploy to a Windows Phone.
 * **Yellow Brick Road QR App**: ([Github Link](https://github.com/Squirrelbear/YellowBrickRoadQRApp)): A PHP based application designed for use by scanning QR codes that would take you to information pages relevant to the location where you were.
