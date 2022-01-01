@@ -10,6 +10,7 @@
 	<li><a href="#java-projects">Java Projects</a></li>
 	<li><a href="#xna-projects">XNA Projects</a></li>
 	<li><a href="#unity-projects">Unity Projects</a></li>
+	<li><a href="#c++-projects">C++ Projects</a></li>
 	<li><a href="#other-projects">Other Projects</a></li>
 </ul></p>
 
