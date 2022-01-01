@@ -12,6 +12,7 @@
 	<li><a href="#xna-projects">XNA Projects</a></li>
 	<li><a href="#unity-projects">Unity Projects</a></li>
 	<li><a href="#c-projects">C++ Projects</a></li>
+	<li><a href="#mobile-development-projects">C++ Projects</a></li>
 	<li><a href="#other-projects">Other Projects</a></li>
 </ul></p>
 
@@ -106,10 +107,13 @@ I have developed all the games listed under Java Projects to make them easier to
 * **RPG Text Game C++ Edition**: ([Github Link](https://github.com/Squirrelbear/RPGTextGameCPP)): A C++ version of the Java RPG Text Game, but with more customisation and changes to suit a CLI in C++. 
 * **Summer Scholarship SSVEP Flashing Stimulus**: ([Github Link](https://github.com/Squirrelbear/SSVEP-FlashingStimulus)): I developed a collection of resources during a summer research scholarship at Flinders where I was tasked with developing software to provide a configurable flashing stimulus for SSVEP BCI experiments. Primarily uses C++ and DirectX11.
 
+## Mobile Development Projects
+
+* **Android Maze Game**: ([Github Link](https://github.com/Squirrelbear/AndroidMazeGame)): A simple game for Android utilising the gyroscope and accelerometer in Java.
+* **Windows Phone Maze Game**: ([Github Link](https://github.com/Squirrelbear/WindowsPhoneMazeGame)): Same game as the Android Maze Game, except converted to use XNA with C# targetted to deploy to a Windows Phone.
+* **Yellow Brick Road QR App**: ([Github Link](https://github.com/Squirrelbear/YellowBrickRoadQRApp)): A PHP based application designed for use by scanning QR codes that would take you to information pages relevant to the location where you were.
+
 ## Other Projects
 
 * **CASIO Calculator Applications**: ([Github Link](https://github.com/Squirrelbear/CasioApplications)): This contains a collection of Casio applications I wrote while in high school. These include both games and applications for simplifying calculations for math topics. My Blackjack game performed well on CasioKingdom.org, where it had many downloads before the site closed down.
 * **CP1 Extras**: ([Github Link](https://github.com/Squirrelbear/CP1Extras)): A resource I continued to develop over 2020 and 2021 to provide help to first-year uni programming students.
-* **Android Maze Game**: ([Github Link](https://github.com/Squirrelbear/AndroidMazeGame)): A simple game for Android utilising the gyroscope and accelerometer in Java.
-* **Windows Phone Maze Game**: ([Github Link](https://github.com/Squirrelbear/WindowsPhoneMazeGame)): Same game as the Android Maze Game, except converted to use XNA with C# targetted to deploy to a Windows Phone.
-* **Yellow Brick Road QR App**: ([Github Link](https://github.com/Squirrelbear/YellowBrickRoadQRApp)): A PHP based application designed for use by scanning QR codes that would take you to information pages relevant to the location where you were.
