@@ -1,8 +1,8 @@
 # Portfolio Demonstrating Peter Mitchell's Work
 
 ## Media Links
-<p align="center"><a href="https://www.linkedin.com/in/petermitchell0001">LinkedIn</a> | <a href="https://github.com/Squirrelbear">GitHub</a> | <a href="https://www.facebook.com/petejm01">Facebook</a> | <a href="https://twitter.com/Squirrelbear1">Twitter</a> <br/> <a href="https://www.youtube.com/channel/UCVpOx4ucRLUmX5Cx66kmyLA">YouTube (Professional)</a> | <a href="https://www.youtube.com/channel/UCBSBiO8jZeZJ7YcequpRmGA">YouTube (Personal Gaming)</a>
-<br/> <a href="https://raw.githubusercontent.com/Squirrelbear/Portfolio/main/Resume_PeterMitchell.pdf">Resume</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/petermitchell0001" target="_blank">LinkedIn</a> | <a href="https://github.com/Squirrelbear" target="_blank">GitHub</a> | <a href="https://www.facebook.com/petejm01" target="_blank">Facebook</a> | <a href="https://twitter.com/Squirrelbear1" target="_blank">Twitter</a> <br/> <a href="https://www.youtube.com/channel/UCVpOx4ucRLUmX5Cx66kmyLA" target="_blank">YouTube (Professional)</a> | <a href="https://www.youtube.com/channel/UCBSBiO8jZeZJ7YcequpRmGA" target="_blank">YouTube (Personal Gaming)</a>
+<br/> <a href="https://raw.githubusercontent.com/Squirrelbear/Portfolio/main/Resume_PeterMitchell.pdf" target="_blank">Resume</a></p>
 
 ## Projects Overview
 
