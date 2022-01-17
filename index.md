@@ -110,6 +110,7 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Uno using SFML (WIP)**: ([Github Link](https://github.com/Squirrelbear/Uno-CPP)): A recreation using SFML of Uno based on the version I wrote with Java (found under the Java heading).
 * **RPG Text Game C++ Edition**: ([Github Link](https://github.com/Squirrelbear/RPGTextGameCPP)): A C++ version of the Java RPG Text Game, but with more customisation and changes to suit a CLI in C++. 
 * **Summer Scholarship SSVEP Flashing Stimulus**: ([Github Link](https://github.com/Squirrelbear/SSVEP-FlashingStimulus)): I developed a collection of resources during a summer research scholarship at Flinders where I was tasked with developing software to provide a configurable flashing stimulus for SSVEP BCI experiments. Primarily uses C++ and DirectX11.
+* **Wordle Solver**: ([Github Link](https://github.com/Squirrelbear/Wordle-Solver)): A simple text application to solve Wordle puzzles by reducing the data set via entering rules.
 
 ## Mobile Application Projects
 
