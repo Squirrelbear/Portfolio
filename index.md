@@ -122,3 +122,4 @@ I have developed all the games listed under Java Projects to make them easier to
 
 * **CASIO Calculator Applications**: ([Github Link](https://github.com/Squirrelbear/CasioApplications)): This contains a collection of Casio applications I wrote while in high school. These include both games and applications for simplifying calculations for math topics. My Blackjack game performed well on CasioKingdom.org, where it had many downloads before the site closed down.
 * **CP1 Extras**: ([Github Link](https://github.com/Squirrelbear/CP1Extras)): A resource I continued to develop over 2020 and 2021 to provide help to first-year uni programming students.
+* **The Waking**: ([Github Link](https://github.com/Squirrelbear/TheWaking-GameMaker6.1)) ([Youtube Demo](https://youtu.be/5rIMB6ml8nU)): A 3D zombie shooter developed using Game Maker 6.1 in 2006 that I collaborated on with a friend for a school IT project.
