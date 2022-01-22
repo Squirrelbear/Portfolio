@@ -114,7 +114,7 @@ I have developed all the games listed under Java Projects to make them easier to
 
 <center><img src="./images/Wordle.jpg" height="150" title="Wordle using SFML"></center>
 
-* **Wordle using SFML**: ([Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)): An implementation of the word game Wordle that follows a similar visual style to the original creators implementation. 
+* **Wordle using SFML**: ([Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)): An implementation of the game Wordle following a similar visual style to the original creator's developed using SFML.
 
 ## Mobile Application Projects
 
