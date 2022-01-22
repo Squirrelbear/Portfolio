@@ -112,7 +112,7 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Summer Scholarship SSVEP Flashing Stimulus**: ([Github Link](https://github.com/Squirrelbear/SSVEP-FlashingStimulus)): I developed a collection of resources during a summer research scholarship at Flinders where I was tasked with developing software to provide a configurable flashing stimulus for SSVEP BCI experiments. Primarily uses C++ and DirectX11.
 * **Wordle Solver**: ([Github Link](https://github.com/Squirrelbear/Wordle-Solver)): A simple text application to solve Wordle puzzles by reducing the data set via entering rules.
 
-<center><img src="./images/Wordle1.jpg" height="150" title="Wordle using SFML"><img src="./images/Wordle2.jpg" height="150" title="Wordle using SFML"></center>
+<center><img src="./images/Wordle1.jpg" height="150" title="Wordle using SFML"> <img src="./images/Wordle2.jpg" height="150" title="Wordle using SFML"></center>
 
 * **Wordle using SFML**: ([Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)): An implementation of the game Wordle following a similar visual style to the original creator's developed using SFML.
 
