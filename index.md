@@ -110,11 +110,11 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Uno using SFML**: ([Github Link](https://github.com/Squirrelbear/Uno-CPP)): A recreation using SFML of Uno based on the version I wrote with Java (found under the Java heading).
 * **RPG Text Game C++ Edition**: ([Github Link](https://github.com/Squirrelbear/RPGTextGameCPP)): A C++ version of the Java RPG Text Game, but with more customisation and changes to suit a CLI in C++. 
 * **Summer Scholarship SSVEP Flashing Stimulus**: ([Github Link](https://github.com/Squirrelbear/SSVEP-FlashingStimulus)): I developed a collection of resources during a summer research scholarship at Flinders where I was tasked with developing software to provide a configurable flashing stimulus for SSVEP BCI experiments. Primarily uses C++ and DirectX11.
-* **Wordle Solver**: ([Github Link](https://github.com/Squirrelbear/Wordle-Solver)): A simple text application to solve Wordle puzzles by reducing the data set via entering rules.
+* **Wordle Solver**: ([Github Link](https://github.com/Squirrelbear/Wordle-Solver)) ([Youtube Demo](https://youtu.be/18llxWL9dl4)): A simple text application to solve Wordle puzzles by reducing the data set via entering rules.
 
 <center><img src="./images/Wordle1.jpg" height="150" title="Wordle using SFML"> <img src="./images/Wordle2.jpg" height="150" title="Wordle using SFML"></center>
 
-* **Wordle using SFML**: ([Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)): An implementation of the game Wordle following a similar visual style to the original creator's developed using SFML.
+* **Wordle using SFML**: ([Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)) ([Youtube Demo](https://youtu.be/18llxWL9dl4)): An implementation of the game Wordle following a similar visual style to the original creator's developed using SFML.
 
 ## Mobile Application Projects
 
