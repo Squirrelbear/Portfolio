@@ -8,13 +8,24 @@
 
 <p>The following list of projects is a selection from those I have worked on in the past years. Some provide links to the repositories if I have made them public or provide a brief description. </p>
 <p><ul>
+	<li><a href="#c-projects">C++ Projects</a></li>
 	<li><a href="#java-projects">Java Projects</a></li>
 	<li><a href="#xna-projects">XNA Projects</a></li>
 	<li><a href="#unity-projects">Unity Projects</a></li>
-	<li><a href="#c-projects">C++ Projects</a></li>
 	<li><a href="#mobile-application-projects">Mobile Application Projects</a></li>
 	<li><a href="#other-projects">Other Projects</a></li>
 </ul></p>
+
+## C++ Projects
+
+* **Uno using SFML**: ([Github Link](https://github.com/Squirrelbear/Uno-CPP)): A recreation using SFML of Uno based on the version I wrote with Java (found under the Java heading).
+* **RPG Text Game C++ Edition**: ([Github Link](https://github.com/Squirrelbear/RPGTextGameCPP)): A C++ version of the Java RPG Text Game, but with more customisation and changes to suit a CLI in C++. 
+
+<center><img src="./images/Wordle1.jpg" height="150" title="Wordle using SFML"> <img src="./images/Wordle2.jpg" height="150" title="Wordle using SFML"></center>
+
+* **Wordle using SFML**: ([Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)) ([Youtube Demo](https://youtu.be/18llxWL9dl4)): An implementation of the game Wordle following a similar visual style to the original creator's developed using SFML.
+* **Wordle Solver**: ([Github Link](https://github.com/Squirrelbear/Wordle-Solver)) ([Youtube Demo](https://youtu.be/18llxWL9dl4)): A simple text application to solve Wordle puzzles by reducing the data set via entering rules.
+* **Summer Scholarship SSVEP Flashing Stimulus**: ([Github Link](https://github.com/Squirrelbear/SSVEP-FlashingStimulus)): I developed a collection of resources during a summer research scholarship at Flinders where I was tasked with developing software to provide a configurable flashing stimulus for SSVEP BCI experiments. Primarily uses C++ and DirectX11.
 
 ## Java Projects
 
@@ -104,17 +115,6 @@ I have developed all the games listed under Java Projects to make them easier to
 
 
 * **God of War Mechanic Demo (WIP)**: ([Github Link](https://github.com/Squirrelbear/UnityTesting2021)) ([Youtube DevLog](https://youtu.be/Ix8kvoW7kLM)): This demo represents a vertical slice of work done to test Unity features, including URP, shader graph and visual effect graph. The demo has the player mimic a sequence used throughout the God of War game, where the player stands interacts with a device to make a platform move. Then the player can throw their axe at the object (by clicking on it) to freeze the component causing the platform to move and jump onto it before calling the axe back and making the platform move back up.
-
-## C++ Projects
-
-* **Uno using SFML**: ([Github Link](https://github.com/Squirrelbear/Uno-CPP)): A recreation using SFML of Uno based on the version I wrote with Java (found under the Java heading).
-* **RPG Text Game C++ Edition**: ([Github Link](https://github.com/Squirrelbear/RPGTextGameCPP)): A C++ version of the Java RPG Text Game, but with more customisation and changes to suit a CLI in C++. 
-* **Summer Scholarship SSVEP Flashing Stimulus**: ([Github Link](https://github.com/Squirrelbear/SSVEP-FlashingStimulus)): I developed a collection of resources during a summer research scholarship at Flinders where I was tasked with developing software to provide a configurable flashing stimulus for SSVEP BCI experiments. Primarily uses C++ and DirectX11.
-* **Wordle Solver**: ([Github Link](https://github.com/Squirrelbear/Wordle-Solver)) ([Youtube Demo](https://youtu.be/18llxWL9dl4)): A simple text application to solve Wordle puzzles by reducing the data set via entering rules.
-
-<center><img src="./images/Wordle1.jpg" height="150" title="Wordle using SFML"> <img src="./images/Wordle2.jpg" height="150" title="Wordle using SFML"></center>
-
-* **Wordle using SFML**: ([Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)) ([Youtube Demo](https://youtu.be/18llxWL9dl4)): An implementation of the game Wordle following a similar visual style to the original creator's developed using SFML.
 
 ## Mobile Application Projects
 
