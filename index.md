@@ -18,7 +18,7 @@
 
 ## C++ Projects
 
-* **Uno using SFML**: ([Github Link](https://github.com/Squirrelbear/Uno-CPP)): A recreation using SFML of Uno based on the version I wrote with Java (found under the Java heading).
+* **Uno using SFML**: ([Github Link](https://github.com/Squirrelbear/Uno-CPP)) ([Java Version Youtube Demo](https://youtu.be/6feJMIqSF98)): A recreation using SFML of Uno based on the version I wrote with Java (found under the Java heading).
 * **RPG Text Game C++ Edition**: ([Github Link](https://github.com/Squirrelbear/RPGTextGameCPP)): A C++ version of the Java RPG Text Game, but with more customisation and changes to suit a CLI in C++. 
 
 <center><img src="./images/Wordle1.jpg" height="150" title="Wordle using SFML"> <img src="./images/Wordle2.jpg" height="150" title="Wordle using SFML"></center>
