@@ -19,6 +19,8 @@
 
 ## C++ Projects
 
+<center><img src="./images/unocpp1.jpg" height="150" title="Uno using SFML"> <img src="./images/unocpp2.jpg" height="150" title="Uno using SFML"> <img src="./images/rpgtextgamecpp.jpg" height="150" title="RPG Text Game C++ Edition"></center>
+
 * **Uno using SFML**: ([Github Link](https://github.com/Squirrelbear/Uno-CPP)) ([C++ Version Youtube Demo](https://youtu.be/FrpcG1bfcx4)) ([Java Version Youtube Demo](https://youtu.be/6feJMIqSF98)): A recreation using SFML of Uno based on the version I wrote with Java (found under the Java heading). The game implements all the core rules of Uno, including many options presented by the official game on Steam. The game’s flow is controlled by generating dynamic trees for behaviour. AI effectively plays the game and is designed to interpret their decisions with the illusion of taking time to give a better game feel.
 * **RPG Text Game C++ Edition**: ([Github Link](https://github.com/Squirrelbear/RPGTextGameCPP)) ([Youtube Demo](https://youtu.be/g24PpN2EcsE)): A simple text-based game that consists of map navigation using word entry with random encounters generated from data where the user fights using mana to cast spells against wolves, orcs, and trolls. This is an improved version from a Java version I wrote with a complete step-by-step walkthrough to let students create their own using the Java language.
 
