@@ -81,7 +81,8 @@ I have developed all the games listed under Java Projects to make them easier to
 <center><img src="./images/WordMaster.jpg" height="150" title="Word Master Example Screenshot"> <img src="./images/Platformer.jpg" height="150" title="Platformer Example Screenshot"></center>
 
 * **Word Master**: ([Github Link](https://github.com/Squirrelbear/WordMaster)) ([Youtube Demo](https://youtu.be/sClFZwInyvM)): A typing game where you try to type as many words as possible, as fast as possible, with as much accuracy as possible.
-* **Car Dodger**: ([Github Link](https://github.com/Squirrelbear/CarDodger)): A mouse controlled game where you change lanes to dodge as many oncoming cars as possible.
+* **Driving Simulator**: ([Github Link](https://github.com/Squirrelbear/DrivingSimulatorJava)): A mouse controlled game where you change lanes to dodge as many oncoming cars as possible. Includes cheat codes to swap to using sprites and other visual changes.
+* **Car Dodger**: ([Github Link](https://github.com/Squirrelbear/CarDodger)): This game is a mimic of the base game (no cheats) from Driving Simulator with a similar code design to many of the other examples seen here.
 * **Platformer**: ([Github Link](https://github.com/Squirrelbear/Platformer)) ([Youtube Demo](https://youtu.be/ctRTWqbMZ9g)): A simple platformer with platforms, collectibles, spikes, and an endpoint.
 
 ## XNA Projects
