@@ -84,6 +84,7 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Driving Simulator**: ([Github Link](https://github.com/Squirrelbear/DrivingSimulatorJava)): A mouse controlled game where you change lanes to dodge as many oncoming cars as possible. Includes cheat codes to swap to using sprites and other visual changes.
 * **Car Dodger**: ([Github Link](https://github.com/Squirrelbear/CarDodger)): This game is a mimic of the base game (no cheats) from Driving Simulator with a similar code design to many of the other examples seen here.
 * **Platformer**: ([Github Link](https://github.com/Squirrelbear/Platformer)) ([Youtube Demo](https://youtu.be/ctRTWqbMZ9g)): A simple platformer with platforms, collectibles, spikes, and an endpoint.
+* **Construction Quotation Assistant**: ([Github Link](https://github.com/Squirrelbear/Construction-Quotation-Assistant)): A group project using Java developed during Software Engineering 3 where the focus was on ensuring code supported test cases and then testing the code of other groups.
 
 ## XNA Projects
 
