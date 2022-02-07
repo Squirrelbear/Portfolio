@@ -144,6 +144,7 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Flinders Uni Crew MessengerPlus Utility**: ([GithubLink](https://github.com/Squirrelbear/FlindersUniCrewMSNPlusScriptsPublic)): A fun utility used as part of the Flinders Uni Crew group chat. I wrote this to allow for dynamic responses and remote execution based on various features. The script uses MPL Scripting based on an older version of Javascript. 
 * **Flinders University Childcare Website (2008)**: I worked with a staff member at the childcare during 2008 to craft a suitable website for Flinders University's Childcare. My version of the website was available from between 2008 till mid-2016 when they updated the site authored by another separate individual. 
 * **Ashenden's at Penneshaw**: ([Site Link](http://www.ashendensatpenneshaw.com/)): A website I developed in 2011 for a client wishing to advertise their Kangaroo Island property as holiday accomodation. The current version of the website is as of February 2022 still mostly the same with some images and text modified from my original work.
+* **PHP CMS with Forums and Messaging**: ([Github Link](https://github.com/Squirrelbear/PHP-CMS-Forum-Messaging)): A project I wrote around 2008 to practice PHP by developing my own forum/messaging/file upload utilities.
 
 ## Publications and Documents
 
