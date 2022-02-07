@@ -103,6 +103,7 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Honours Project**: ([Github Link](https://github.com/Squirrelbear/Honours-BCI-and-Kinect-Game)) ([Youtube Demo](https://youtu.be/CxklsQ8ch8A)): My honours project investigated the use of relaxation/concentration by using the Emotiv Epoc BCI interface combined with gesture detection with the Microsoft Kinect and voice commands via the Microsoft Kinect using their speech libraries. I developed custom algorithms with three games that effectively used the inputs and tested them on participants.
 
 * **XNA Kinect Lecture 2013**: ([Github Link](https://github.com/Squirrelbear/GameDevelopment2013-XNAKinectLecture)): A lecture I presented in 2013 introducing using XNA and the Microsoft Kinect for a Game Development topic. The lecture covers an introduction to the Microsoft Kinect with what sensors it has and had practical examples of how to use it.
+* **Overrun City**: ([Github Link](https://github.com/Squirrelbear/Overrun-City)): A single tiny level 2D shooter where the player must enter a code by shooting the numbers. Developed as a mini-project during a 3rd year uni game development topic to demonstrate knowledge of using XNA with C#. 
 
 ## Unity Projects
 
