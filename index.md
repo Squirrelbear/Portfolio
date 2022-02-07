@@ -131,6 +131,7 @@ I have developed all the games listed under Java Projects to make them easier to
 * **Android Maze Game**: ([Github Link](https://github.com/Squirrelbear/AndroidMazeGame)): A simple game for Android utilising the gyroscope and accelerometer in Java.
 * **Windows Phone Maze Game**: ([Github Link](https://github.com/Squirrelbear/WindowsPhoneMazeGame)): Same game as the Android Maze Game, except converted to use XNA with C# targetted to deploy to a Windows Phone.
 * **Yellow Brick Road QR App**: ([Github Link](https://github.com/Squirrelbear/YellowBrickRoadQRApp)): A PHP based application designed for use by scanning QR codes that would take you to information pages relevant to the location where you were.
+* **Trail Seeker**: ([Github Link](https://github.com/Squirrelbear/TrailSeeker)): A Java mobile application that uses GPS data to create trails that can be shared via a PHP server backend. 
 
 ## Other Projects
 
