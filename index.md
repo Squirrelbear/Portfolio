@@ -15,6 +15,7 @@
 	<li><a href="#mobile-application-projects">Mobile Application Projects</a></li>
 	<li><a href="#other-projects">Other Projects</a></li>
 	<li><a href="#publications-and-documents">Publications and Documents</a></li>
+	<li><a href="./tenexamples">10 Specific Examples</a> (opens a separate page)</li>
 </ul></p>
 
 ## C++ Projects

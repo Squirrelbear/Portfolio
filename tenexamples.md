@@ -96,3 +96,5 @@ Interestingly, this application has had the most views on youtube out of all app
 * ([Youtube Presentation](https://youtu.be/43KhMJGKtPs)): Note that the presentation of this content starts at 48:30 if you want to skip to it.
 
 As part of teaching game development in 2021, I developed a mini-experience replicating the flow of the game Star Wars: Galaxy of Heroes. The demo implements a small selection of abilities for the Phoenix squad represented as spiders. Although the construction of abilities was handled with scriptable objects, I would prefer to use a node or LUA based technique for a complete game. The purpose of the example was to demonstrate different ways to use scriptable objects. Characters, abilities, buffs/debuffs, and actions performed as part of abilities are all represented as scriptable objects linked together, creating a similar experience to expected gameplay.
+
+[Return to Portfolio](./index)
