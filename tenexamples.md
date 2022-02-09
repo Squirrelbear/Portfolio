@@ -1,6 +1,6 @@
 # 10 Interesting Examples from my Portfolio 
 
-[Return to Portfolio](index)
+[Return to Portfolio](./index)
 
 ## Uno (Game Sequence and AI)
 
