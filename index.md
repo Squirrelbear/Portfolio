@@ -127,7 +127,10 @@ I have developed all the games listed under Java Projects to make them easier to
 
 * **God of War Mechanic Demo (WIP)**: ([Github Link](https://github.com/Squirrelbear/UnityTesting2021)) ([Youtube DevLog](https://youtu.be/Ix8kvoW7kLM)): This demo represents a vertical slice of work done to test Unity features, including URP, shader graph and visual effect graph. The demo has the player mimic a sequence used throughout the God of War game, where the player stands interacts with a device to make a platform move. Then the player can throw their axe at the object (by clicking on it) to freeze the component causing the platform to move and jump onto it before calling the axe back and making the platform move back up.
 
-* **Guess Who: Stargate NodeJS Server**: ([Github Link](https://github.com/Squirrelbear/StargateGuessWho-NodeJSServer)): This code pairs with an unreleased Unity project I am working on to work as a multiplayer game with Stargate themes brought to the Guess Who type game.
+<center><img src="./images/GuessWhoSG1_1.jpg" height="150" title="Guess Who Stargate Main Menu"> <img src="./images/GuessWhoSG1_2.jpg" height="150" title="Guess Who Stargate Core Game"></center>
+
+* **Guess Who: Stargate Unity Project**: ([Github Link](https://github.com/Squirrelbear/StargateGuessWho)): This project imitates the classic game of Guess Who with Stargate characters. Players can ask questions about the character the other has selected to narrow down the options until making a guess. The game is designed to work on both PC and Android.
+* **Guess Who: Stargate NodeJS Server**: ([Github Link](https://github.com/Squirrelbear/StargateGuessWho-NodeJSServer)): This code acts as a server that lets users connect, authenticate, and join games for the Guess Who Stargate Unity project. The server manages any number of simultaneous games with pairs of users.
 
 ## Mobile Application Projects
 
