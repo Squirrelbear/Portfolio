@@ -83,8 +83,8 @@ I combined a brain-computer interface with the Microsoft Kinect in my honours pr
 
 <center><img src="./images/GuessWhoSG1_1.jpg" height="150" title="Guess Who Stargate Main Menu"> <img src="./images/GuessWhoSG1_2.jpg" height="150" title="Guess Who Stargate Core Game"></center>
 
-* ([Unity Project Github Link](https://github.com/Squirrelbear/StargateGuessWho))
-* ([NodeJS Project Github Link](https://github.com/Squirrelbear/StargateGuessWho-NodeJSServer))
+* ([Unity Client Project Github Link](https://github.com/Squirrelbear/StargateGuessWho))
+* ([NodeJS Server Project Github Link](https://github.com/Squirrelbear/StargateGuessWho-NodeJSServer))
 
 This project imitates the classic game of Guess Who with Stargate characters. Players can ask questions about the character the other has selected to narrow down the options until making a guess. The game is designed to work on both PC and Android.
 
