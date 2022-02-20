@@ -79,14 +79,14 @@ My PhD experiments demonstrate the use of world-space menus triggered in VR with
 
 I combined a brain-computer interface with the Microsoft Kinect in my honours project. The brain input was used in the application to measure concentration/relaxation. The first puzzle, for example, involved a grid of 3x3 tiles with a hidden map of the world. The user would have to relax, and as a result, the world map would fade in over the top of the heiroglphs. Voice commands and hand interactions could select, pick up, rotate, and put down the tiles. The goal was to reform the world map correctly. As users began to perform interactions, this would sway them more toward concentration causing the map to fade out again.
 
-## Othello (Gameplay)
+## Guess Who Stargate (Multiplayer)
 
-<center><img src="./images/Othello.jpg" height="150" title="Othello Example Screenshot"></center>
+<center><img src="./images/GuessWhoSG1_1.jpg" height="150" title="Guess Who Stargate Main Menu"> <img src="./images/GuessWhoSG1_2.jpg" height="150" title="Guess Who Stargate Core Game"></center>
 
-* ([Github Link](https://github.com/Squirrelbear/Othello)) 
-* ([Youtube Demo](https://youtu.be/gIGlct4bAQs))
+* ([Unity Project Github Link](https://github.com/Squirrelbear/StargateGuessWho))
+* ([NodeJS Project Github Link](https://github.com/Squirrelbear/StargateGuessWho-NodeJSServer))
 
-Interestingly, this application has had the most views on youtube out of all applications. The game is played either against the AI or another player. Given the current game state, the game shows highlighting to clarify legal moves. 
+This project imitates the classic game of Guess Who with Stargate characters. Players can ask questions about the character the other has selected to narrow down the options until making a guess. The game is designed to work on both PC and Android.
 
 ## Star Wars: Galaxy of Heroes (Gameplay)
 
@@ -96,5 +96,18 @@ Interestingly, this application has had the most views on youtube out of all app
 * ([Youtube Presentation](https://youtu.be/43KhMJGKtPs)): Note that the presentation of this content starts at 48:30 if you want to skip to it.
 
 As part of teaching game development in 2021, I developed a mini-experience replicating the flow of the game Star Wars: Galaxy of Heroes. The demo implements a small selection of abilities for the Phoenix squad represented as spiders. Although the construction of abilities was handled with scriptable objects, I would prefer to use a node or LUA based technique for a complete game. The purpose of the example was to demonstrate different ways to use scriptable objects. Characters, abilities, buffs/debuffs, and actions performed as part of abilities are all represented as scriptable objects linked together, creating a similar experience to expected gameplay.
+
+## (Bonus 11) Top 3 Most Viewed on Youtube Demos (Battleship, Othello, Wordle)
+
+<center><img src="./images/Othello.jpg" height="150" title="Othello Example Screenshot"> <img src="./images/Battleship.jpg" height="150" title="Battleship Example Screenshot"> <img src="./images/Wordle1.jpg" height="150" title="Wordle using SFML"></center>
+
+* ([Othello Java Github Link](https://github.com/Squirrelbear/Othello)) 
+* ([Othello Youtube Demo](https://youtu.be/gIGlct4bAQs))
+* ([Battleship Java Github Link](https://github.com/Squirrelbear/Battleship)) 
+* ([Battleship Youtube Demo](https://youtu.be/BaLBZEwchQY))
+* ([Worlde C++ Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)) 
+* ([Wordle Youtube Demo](https://youtu.be/18llxWL9dl4))
+
+Interestingly, these three applications have had the most views on my youtube channel out of all applications. 
 
 [Return to Portfolio](./index)
