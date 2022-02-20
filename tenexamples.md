@@ -105,7 +105,7 @@ As part of teaching game development in 2021, I developed a mini-experience repl
 * ([Othello Youtube Demo](https://youtu.be/gIGlct4bAQs))
 * ([Battleship Java Github Link](https://github.com/Squirrelbear/Battleship)) 
 * ([Battleship Youtube Demo](https://youtu.be/BaLBZEwchQY))
-* ([Worlde C++ Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)) 
+* ([Wordle C++ Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)) 
 * ([Wordle Youtube Demo](https://youtu.be/18llxWL9dl4))
 
 Interestingly, these three applications have had the most views on my youtube channel out of all applications. 
