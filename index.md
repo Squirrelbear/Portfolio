@@ -27,7 +27,7 @@
 
 <center><img src="./images/Wordle1.jpg" height="150" title="Wordle using SFML"> <img src="./images/Wordle2.jpg" height="150" title="Wordle using SFML"></center>
 
-* **Wordle using SFML**: ([Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)) ([Youtube Demo](https://youtu.be/18llxWL9dl4)): An implementation of the game Wordle following a similar visual style to the original creator's developed using SFML.
+* **Wordle using SFML**: ([Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)) ([Youtube Demo](https://youtu.be/18llxWL9dl4)) ([Youtube Full Code Walkthrough](https://youtu.be/XJdb2gwaB3E)): An implementation of the game Wordle following a similar visual style to the original creator's developed using SFML.
 * **Wordle Solver**: ([Github Link](https://github.com/Squirrelbear/Wordle-Solver)) ([Youtube Demo](https://youtu.be/18llxWL9dl4)): A simple text application to solve Wordle puzzles by reducing the data set via entering rules.
 * **Summer Scholarship SSVEP Flashing Stimulus**: ([Github Link](https://github.com/Squirrelbear/SSVEP-FlashingStimulus)): I developed a collection of resources during a summer research scholarship at Flinders where I was tasked with developing software to provide a configurable flashing stimulus for SSVEP BCI experiments. Primarily uses C++ and DirectX11.
 * **BigInt Reverse Polish Notation (RPN) Calculator**: (Project content available upon request.) My code is currently the server-side solution for automated testing against student code for a second-year programming university topic. It supports an arbitrary number of valid RPN ordered math using multiplication, division, addition, and subtraction with any number digits (default 256).

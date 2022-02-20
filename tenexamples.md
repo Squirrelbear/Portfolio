@@ -107,6 +107,7 @@ As part of teaching game development in 2021, I developed a mini-experience repl
 * ([Battleship Youtube Demo](https://youtu.be/BaLBZEwchQY))
 * ([Wordle C++ Github Link](https://github.com/Squirrelbear/Wordle-CPP-SMFL)) 
 * ([Wordle Youtube Demo](https://youtu.be/18llxWL9dl4))
+* ([Wordle Youtube Full Code Walkthrough](https://youtu.be/XJdb2gwaB3E))
 
 Interestingly, these three applications have had the most views on my youtube channel out of all applications. 
 
